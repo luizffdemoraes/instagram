@@ -21,4 +21,4 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-Página de login do Instagram: nesse projeto, será abordado o conceito sobre CSS Flexbox e responsividade.
+Página de login do Instagram: nesse projeto foi abordado o conceito sobre CSS Flexbox e responsividade.
